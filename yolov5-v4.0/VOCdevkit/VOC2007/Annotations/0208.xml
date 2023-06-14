@@ -1,0 +1,18 @@
+<annotation>
+	<folder>VOC</folder>
+	<filename>0226.jpg</filename>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>nodule</name>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>246</ymin>
+			<xmax>213</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>
